@@ -1,0 +1,14 @@
+[
+  {
+    "text": "Javascript is the most interesting programming language.",
+    "cloze": "Javascript"
+  },
+  {
+    "text": "Promises are a alternative to continous passing style",
+    "cloze": "Promises"
+  },
+  {
+    "text": "this can get wonky when dealing with jQuery",
+    "cloze": "this"
+  }
+]
